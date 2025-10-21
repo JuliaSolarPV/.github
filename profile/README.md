@@ -1,4 +1,6 @@
-## Hi there 👋
+## Welcome to Julia Solar Photovoltaics
+
+NB: This organization is not affiliated with or endorsed by the Julia language.
 
 <!--
 
